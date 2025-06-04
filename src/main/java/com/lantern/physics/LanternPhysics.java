@@ -1,5 +1,6 @@
 package com.lantern.physics;
 
+import com.lantern.physics.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -13,6 +14,6 @@ public class LanternPhysics implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItem();
 	}
 }

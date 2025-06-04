@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lanternphysics:item/wind_debug_item"
+  }
+}
