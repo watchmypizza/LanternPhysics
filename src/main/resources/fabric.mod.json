@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "lantern-physics",
+	"version": "${version}",
+	"name": "Lantern Physics",
+	"description": "This mod aims to add modern, beautiful and realistic looking lantern animations.\nSuch as actually holding an lantern in your hands, or the lantern being influenced by wind.\nWorks best with shaders.",
+	"authors": [
+		"ilikepeanutbutter."
+	],
+	"contact": {
+		"homepage": "For yet, none",
+		"sources": "needtomake github"
+	},
+	"license": "MIT",
+	"icon": "assets/lantern-physics/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.lantern.physics.LanternPhysics"
+		],
+		"fabric-datagen": [
+			"com.lantern.physics.LanternPhysicsDataGenerator"
+		],
+		"client": [
+			"com.lantern.physics.LanternPhysicsClient"
+		]
+	},
+	"mixins": [
+		"lantern-physics.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
