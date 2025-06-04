@@ -3,13 +3,13 @@
 	"id": "lantern-physics",
 	"version": "${version}",
 	"name": "Lantern Physics",
-	"description": "This mod aims to add modern, beautiful and realistic looking lantern animations.\nSuch as actually holding an lantern in your hands, or the lantern being influenced by wind.\nWorks best with shaders.",
+	"description": "This mod aims to add modern, beautiful and realistic looking lantern animations. Such as actually holding an lantern in your hands, or the lantern being influenced by wind. Works best with shaders.",
 	"authors": [
 		"ilikepeanutbutter."
 	],
 	"contact": {
 		"homepage": "For yet, none",
-		"sources": "needtomake github"
+		"sources": "https://github.com/watchmypizza/LanternPhysics"
 	},
 	"license": "MIT",
 	"icon": "assets/lantern-physics/icon.png",
