@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lanternphysics:item/dev_block_item"
+  }
+}

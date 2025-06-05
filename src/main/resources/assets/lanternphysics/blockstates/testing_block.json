@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lanternphysics:block/testing_block"
+    }
+  }
+}

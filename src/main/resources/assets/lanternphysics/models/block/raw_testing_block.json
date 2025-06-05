@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lanternphysics:block/raw_testing_block"
+  }
+}

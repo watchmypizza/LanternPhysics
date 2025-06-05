@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lanternphysics:item/wind_debug_item"
+  }
+}

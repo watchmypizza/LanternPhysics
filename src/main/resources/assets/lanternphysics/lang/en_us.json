@@ -1,0 +1,10 @@
+{
+  "item.lanternphysics.testing_block": "Block of Testing",
+  "item.lanternphysics.raw_testing_block": "Raw Block of Testing",
+  "item.lanternphysics.null": "N̴̫̐̏̏͛͋͑̓̈́͠͝Ư̶̧̪̦̗̙̟͕͊͐́̇̒̋̒͊̕L̶̜̮̤̲͂̔̈́̊̇̈́L̶̢̛̤̼̭̖̒̈",
+
+  "item.lanternphysics.wind_debug_item": "Debugger of the Wind",
+  "item.lanternphysics.dev_block_item": "Dev Block Item",
+
+  "itemGroup.lanternphysics.dev_kit_item_group": "Lantern Physics"
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "lanternphysics:raw_testing_block",
+    "lanternphysics:testing_block"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "lanternphysics:null"
+  ],
+  "result": {
+    "count": 9,
+    "id": "lanternphysics:wind_debug_item"
+  }
+}
